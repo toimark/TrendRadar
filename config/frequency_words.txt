@@ -32,6 +32,8 @@ DJI
 字节
 bytedance
 张一鸣
+抖音
+tiktok
 
 特斯拉
 马斯克
@@ -45,22 +47,14 @@ NVIDIA
 
 AMD
 
-谷歌
-google
 gemini
 deepmind
 
 chatgpt
 openai
 sora
-
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -70,22 +64,11 @@ ai
 
 机器人
 
-国产
-中国
-
-美国
-日本
-韩国
-
 芯片
 光刻机
 
-科技
-
-核能
-
-水电站
-雅鲁藏布江
+核动力
+核聚变
 
 新质生产力
 
@@ -105,7 +88,8 @@ yu7
 港股
 标普500
 
-供应链
-
 国家补贴
 
+海洋捕捞
+水产养殖
+海上牧场
